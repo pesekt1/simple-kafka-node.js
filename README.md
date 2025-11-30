@@ -14,6 +14,6 @@ This will start a Kafka broker, a Zookeeper instance, kafka ui, a producer and a
 
 ## Accessing Kafka UI
 
-You can access the Kafka UI at: http://localhost:8082
+You can access the Kafka UI at: http://localhost:8082 where you can see all the persisted messages in the test_topic.
 
 You can also see the logs of the producer and consumer in docker desktop.
